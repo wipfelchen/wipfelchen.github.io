@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "home"
   About Me: "aboutme"
   Contact: "contact"
   
@@ -36,7 +36,7 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: sandra kirchnern
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -106,4 +106,3 @@ prose:
     - /css
     - /img
     - /js
-    
